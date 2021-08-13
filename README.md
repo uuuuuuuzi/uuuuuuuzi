@@ -1,12 +1,13 @@
-### Hi 👋
+### I'm @uuuuuuuzi
+
+* 💻 安服菜鸡
+* 💻 常年内网迷路者
+* 💻 非知名网络黑客
+* 💻 专业端茶倒水选手
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uuuuuuuzi&theme=gruvbox)](https://github.com/uuuuuuuzi/github-readme-stats)
 
-<img align="right" alt="GIF" src="IMG/pusheencode.gif" />
-
-### I'm @uuuuuuuzi
-
-* 💻 安服菜鸡、专业饮水机看守员、非知名黑客、常年内网迷路者、Web安全萌新
+<img align="right" alt="GIF" src="img/cat.gif" />
 
 
 <!--
